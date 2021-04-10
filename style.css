@@ -10,6 +10,8 @@ body {
     font-family: 'Acme', sans-serif;
 }
 
+/* all other elements except body */
+
 .container1 {
     width: 100%;
     height: 100%;
